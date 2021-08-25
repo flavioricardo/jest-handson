@@ -1,0 +1,12 @@
+{
+  "name": "jest-handson",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Flávio Ricardo",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
